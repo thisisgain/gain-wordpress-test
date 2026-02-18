@@ -1,0 +1,20 @@
+{
+    "name": "eleven-miles/erebus",
+    "description": "A starter theme for Wordpress sites built with Mimir",
+    "type": "wordpress-theme",
+    "require": {
+        "php": ">=8.2"
+    },
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Eleven Miles",
+            "email": "dev@elevenmiles.com"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}
